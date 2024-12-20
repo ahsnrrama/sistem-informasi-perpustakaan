@@ -66,3 +66,14 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - json (enabled by default - don't turn it off)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+
+
+## Tampilan Website
+![image](https://github.com/user-attachments/assets/08d7a197-625c-4358-8fd3-874075b92f58)
+![image](https://github.com/user-attachments/assets/081991ca-c6d6-4311-aeb9-5e29f56535df)
+![image](https://github.com/user-attachments/assets/01b4e2df-c512-4b7c-afde-731ae855f06b)
+![image](https://github.com/user-attachments/assets/21bcd6a0-5e30-48db-a1f2-e1310a3ceb6f)
+
+
+
+
